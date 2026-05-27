@@ -27,3 +27,5 @@ Employee Management System built using Spring Boot Microservices architecture wi
 - Eureka Server → 8761
 - Employee Service → 8081
 - Department Service → 8082
+
+- ![Eureka_Server_Status](Images/Eureka_Server_Status.png)
