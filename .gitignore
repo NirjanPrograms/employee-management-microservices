@@ -1,0 +1,33 @@
+# Target Build Directories (Compiled Java Bytecode)
+**/target/
+*.jar
+*.war
+*.ear
+
+# IntelliJ IDEA workspace files
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# NetBeans / Eclipse specific files (just in case)
+.metadata/
+.classpath
+.project
+.settings/
+*.tmp
+*.bak
+
+# Log files
+*.log
+logs/
+
+# Maven wrapper utilities
+.mvn/
+mvnw
+mvnw.cmd
+
+# Operating system files
+.DS_Store
+Thumbs.db
